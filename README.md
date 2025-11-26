@@ -7,5 +7,7 @@ In this assignment, our group will work on gun-deaths-by-county-QueryResult data
 The research questions allowed by this assignment will be one of three types:
 
 establishing a difference in means between two groups
+
 establishing a difference in proportion between two groups
+
 establishing a correlation between two measures
